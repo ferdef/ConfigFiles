@@ -1,3 +1,13 @@
+filetype off
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
+" Folding
+set foldmethod=indent
+set foldlevel=99
+
+" Window Splits
+
 set encoding=utf-8
 syntax on
 
