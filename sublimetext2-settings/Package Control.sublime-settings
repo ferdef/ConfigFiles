@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1334830187,
+	"installed_packages":
+	[
+		"Git",
+		"Package Control",
+		"Pylinter"
+	]
+}

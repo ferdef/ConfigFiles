@@ -1,0 +1,22 @@
+{
+	// Columns in which to display vertical rulers
+    "rulers": [79],
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+    // Adds whitespace up to the first open bracket when indenting. Requires
+    // auto_indent to be enabled.
+    "indent_to_bracket": true,
+    // Set to false to disable detection of tabs vs. spaces on load
+    "detect_indentation": true,
+
+    // Calculates indentation automatically when pressing enter
+    "auto_indent": true,
+
+    // Makes auto indent a little smarter, e.g., by indenting the next line
+    // after an if statement in C. Requires auto_indent to be enabled.
+    "smart_indent": true,
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": false
+}
